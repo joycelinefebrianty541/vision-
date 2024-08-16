@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 ch-number="1" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20001.m3u8
+#EXTINF:-1 ch-number="2" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI KALSEL HD
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_2500000=10004-mp4a_96000=20001.m3u8
+#EXTINF:-1 ch-number="3" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 ch-number="4" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI SPORT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 ch-number="25" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="19" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",NET. HD
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="6" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BTV HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 ch-number="7" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Prima TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+#EXTINF:-1 ch-number="8" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SIN PO tv
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="23" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SCTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="24" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",INDOSIAR HD
+http://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="123" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MOJI HD
+http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="124" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MENTARI HD
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w1329456651_b1044100_sleng.m3u8
+#EXTINF:-1 ch-number="125" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",KOMPASTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="21" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1634932093_b744100_sleng.m3u8
+#EXTINF:-1 ch-number="20" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1626721115_b744100_sleng.m3u8
+#EXTINF:-1 ch-number="40" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1902974108_b384000_sleng.m3u8
+#EXTINF:-1 ch-number="41" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1112942844_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 ch-number="30" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GTV HD
+https://1s1.rctiplus.id/gtv2023-avc1_3500000=8-mp4a_106400_eng=9.m3u8
+#EXTINF:-1 ch-number="28" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RCTI HD
+https://1s1.rctiplus.id/rcti2023-avc1_3500000=16-mp4a_128000=2.m3u8
+#EXTINF:-1 ch-number="29" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MNCTV HD
+https://1s1.rctiplus.id/mnctv2023-avc1_3500000=8-mp4a_128000=2.m3u8
+#EXTINF:-1 ch-number="31" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",iNews HD
+https://1s1.rctiplus.id/inews2023-avc1_3500000=8-mp4a_128000_eng=2.m3u8
+#EXTINF:-1 ch-number="27" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVONE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="26" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",ANTV HD
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV-avc1_2500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 ch-number="101" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",VTV HD
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="100" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 ch-number="34" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",NET. HD
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="22" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",METRO TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 ch-number="77" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MAGNA NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 ch-number="76" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BN TV
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
